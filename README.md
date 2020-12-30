@@ -23,9 +23,9 @@ School performance based on the type of school
 ## School District Summary 
 
 Four major changes in the updated school district analysis after replacing reading and math scores for the ninth grade at Thomas High School with NaNs:
-### THS sees lower math performance, higher reading performance and a slightly better overall passing rate
-### Lower average math score and higher average reading score for school spending of $630 to $644
-### Lower average math score and higher average reading score for medium school 
-### Lower average math score and higher average reading score for Charter school
+1. THS sees lower math performance, higher reading performance and a slightly better overall passing rate
+2. Lower average math score and higher average reading score for school spending of $630 to $644
+3. Lower average math score and higher average reading score for medium school 
+4. Lower average math score and higher average reading score for Charter school
 
 
