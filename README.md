@@ -12,13 +12,19 @@ School performance based on the type of school
 
 ## Results 
 
-1. By removing the data from THS 9th grade, there's a slight reduction in average math score and the percentage passing math/reading/overall passing 
+1. By removing the data from THS 9th grade, there's a slight reduction in average math score and the percentage passing math/reading/overall passing
+![](https://github.com/esaer/Kickstarter-analysis/raw/main/Theater_Outcomes_vs_Launch.png)
 2. Performance of THS was worse relative to other schools after replacing the 9th grders'math and reading scores 
+![](https://github.com/esaer/Kickstarter-analysis/raw/main/Theater_Outcomes_vs_Launch.png)
 3. Replacing the 9th trade scores result in: 
   no change in math and reading scores by grade for schools other than THS
+  ![](https://github.com/esaer/Kickstarter-analysis/raw/main/Theater_Outcomes_vs_Launch.png)
   lower average math score and higher average reading score for school spending of $630 to $644
-  lower average math score and higher average reading score for medium school 
+  ![](https://github.com/esaer/Kickstarter-analysis/raw/main/Theater_Outcomes_vs_Launch.png)
+  lower average math score and higher average reading score for medium school
+  ![](https://github.com/esaer/Kickstarter-analysis/raw/main/Theater_Outcomes_vs_Launch.png)
   lower average math score and higher average reading score for Charter school
+  ![](https://github.com/esaer/Kickstarter-analysis/raw/main/Theater_Outcomes_vs_Launch.png)
 
 ## School District Summary 
 
